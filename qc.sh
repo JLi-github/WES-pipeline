@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#SBATCH --account=cdsc_project1
+#SBATCH --account=1
 #SBATCH --job-name=fastqc
 #SBATCH --mail-type=NONE
 #SBATCH --partition=standard
